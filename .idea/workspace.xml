@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e709fe-dec5-4b06-a51c-76a5a4b3cbc3" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/BigO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/GCOverheadlimitexceeded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +36,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kufre.udoko.UBAGROUP/git/data_structure_and_algorithms"
+    "last_opened_file_path": "C:/Users/kufre.udoko.UBAGROUP/git/data_structure_and_algorithms",
+    "settings.editor.selected.configurable": "http.proxy"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
@@ -115,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659971595509</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1661104990364</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661104990364</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
