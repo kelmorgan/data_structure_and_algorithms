@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e709fe-dec5-4b06-a51c-76a5a4b3cbc3" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/synopsys_code_sight_state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/BigO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/GCOverheadlimitexceeded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/BigO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/GCOverheadlimitexceeded.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +41,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kufre.udoko.UBAGROUP/git/gtp-reporting-api"
+    "last_opened_file_path": "C:/Users/kufre.udoko.UBAGROUP/git/data_structure_and_algorithms"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.GCOverheadlimitexceeded">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Bina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kelmorgan.datastructure.Bina" />
+      <module name="data_structure_and_algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kelmorgan.datastructure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GCOverheadlimitexceeded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kelmorgan.datastructure.GCOverheadlimitexceeded" />
       <module name="data_structure_and_algorithms" />
@@ -72,8 +86,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GCOverheadlimitexceeded" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Bina" />
+        <item itemvalue="Application.GCOverheadlimitexceeded" />
       </list>
     </recent_temporary>
   </component>
