@@ -1,21 +1,25 @@
 package com.kelmorgan.datastructure;
 
-import java.util.Arrays;
-
 public class Main {
 
     private static long[] fibonacciCache;
 
     public static void main(String[] args) {
+        var stack = new Stack();
 
-        var list = new LinkedList();
+        stack.push(3);
+        stack.push(8);
+        stack.push(5);
+        stack.push(5);
+        stack.push(7);
+        System.out.println(stack.pop());
+        stack.push(10);
+        stack.push(6);
+        stack.pop();
+        System.out.println(stack);
 
-        list.addLast(10);
-        list.addLast(20);
-        list.addLast(30);
-        list.addLast(40);
-        list.addFirst(5);
-        System.out.println(list.getKthFromTheEnd(3));
+        System.out.println(stack.isEmpty());
+
 
     }
 

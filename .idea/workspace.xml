@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91e709fe-dec5-4b06-a51c-76a5a4b3cbc3" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/StackActions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kelmorgan/datastructure/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +39,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/kufre.udoko.UBAGROUP/git/data_structure_and_algorithms",
+    "last_opened_file_path": "C:/Users/kufre.udoko.UBAGROUP/git/userservice",
     "settings.editor.selected.configurable": "http.proxy"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Bina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.kelmorgan.datastructure.Main">
+    <configuration name="com.kelmorgan.datastructure.Bina" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kelmorgan.datastructure.Bina" />
       <module name="data_structure_and_algorithms" />
       <extension name="coverage">
@@ -54,7 +57,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCOverheadlimitexceeded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kelmorgan.datastructure.GCOverheadlimitexceeded" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kelmorgan.datastructure.GCOverheadlimitexceeded" />
       <module name="data_structure_and_algorithms" />
       <extension name="coverage">
@@ -67,7 +70,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="com.kelmorgan.datastructure.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kelmorgan.datastructure.Main" />
       <module name="data_structure_and_algorithms" />
       <extension name="coverage">
@@ -82,9 +85,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Bina" />
-        <item itemvalue="Application.GCOverheadlimitexceeded" />
+        <item itemvalue="Application.com.kelmorgan.datastructure.Main" />
+        <item itemvalue="Application.com.kelmorgan.datastructure.Bina" />
+        <item itemvalue="Application.com.kelmorgan.datastructure.GCOverheadlimitexceeded" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661104990364</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1661105566169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661105566169</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
